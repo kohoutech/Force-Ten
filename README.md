@@ -1,2 +1,2 @@
 # Force-Ten
-putting MIDI control at your fingertips
+look in, look out, look around

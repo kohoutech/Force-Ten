@@ -1,0 +1,2 @@
+rootProject.name='ForceTen'
+include ':app'
